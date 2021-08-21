@@ -1287,6 +1287,9 @@ Footer Style
   .footer-widget.c-2 {
     padding-left: 0px;
   }
+.footer-widget li{
+    padding-left: 20px;
+  }
   .footer-copyright-text p{
       margin-left: -50px;
   }
